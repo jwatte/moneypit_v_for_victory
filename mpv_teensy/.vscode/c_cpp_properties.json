@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/jwatte/arduino-1.8.3/hardware/teensy/avr/cores/teensy3/",
+                "/home/jwatte/arduino-1.8.3/libraries/",
+                "/home/jwatte/arduino-1.8.3/hardware/teensy/avr/libraries/ILI9341_t3/",
+                "/home/jwatte/Arduino/libraries/",
+                "/home/jwatte/Arduino/libraries/PulsePinIn/",
+                "/home/jwatte/Arduino/libraries/Touch7834/",
+                "${workspaceRoot}"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/home/jwatte/arduino-1.8.3/hardware/teensy/avr/cores/teensy3/",
+                    "/home/jwatte/arduino-1.8.3/libraries/",
+                    "/home/jwatte/arduino-1.8.3/hardware/teensy/avr/libraries/ILI9341_t3/",
+                    "/home/jwatte/Arduino/libraries/",
+                    "/home/jwatte/Arduino/libraries/PulsePinIn/",
+                    "/home/jwatte/Arduino/libraries/Touch7834/",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 2
+}
