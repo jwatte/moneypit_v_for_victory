@@ -1,10 +1,10 @@
 core
-obj
-camcam
-mkpng
-mkyuv
-mkdetect
-mkchecker
+camcam/obj
+camcam/camcam
+camcam/mkpng
+camcam/mkyuv
+camcam/mkdetect
+camcam/mkchecker
 *.o
 *~
 .*.swp
@@ -19,8 +19,4 @@ mkchecker
 *.yuv
 raw
 foo
-
-.*.swp
-.*.swo
-*~
-showip
+showip/showip
